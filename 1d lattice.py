@@ -141,8 +141,3 @@ for j in range(steps):
             print("")
             print("")
             break
-
-        # SHOULD USE NORMALIZED OR UNNORMALIZED K FOR TIMESTEP??????????
-        # record MSD
-        # Migration energy instead of delta E
-        # periodic boundary conditions (ring of particles)
